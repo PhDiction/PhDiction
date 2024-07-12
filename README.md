@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PhDiction
 - 👀 I’m interested in TV and Movie Production
-- 🌱 I’m currently learning Front End Engineering
-- 💞️ I’m looking to collaborate on Front End projects
+- 🌱 I’m currently learning Full Stack Development
+- 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me tyler.e.morton@gmail.com
 
 <!---
